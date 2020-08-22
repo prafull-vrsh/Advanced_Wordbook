@@ -1,0 +1,52 @@
+MLA	Member of Legislative Assembly
+SAARC	South Asian Association for Regional Cooperation
+UPA	United Progressive Alliance, United Production of America
+RSS	Really Simple Syndication, Rashtriya Swayamsevak Sangh
+UNESCO	United Nations Educational, Scientific and Cultural Organization
+BJP	Bhartiya Janta Party
+BSP	Bahujan Samaj Party
+CPI	Communist Party of India
+CPI (M)	Communist Party of India (Marxist)
+INC	Indian National Congress
+NCP	Nationalist Congress Party
+RJD	Rashtriya Janata Dal
+ADMK	ALL India Anna Dravida Munnetra Kazhagam
+AC	Arunachal Congress
+AGP	Asom Gana Parishad
+AIFB	All India Forward Block
+AITC	All India Trinamool Congress
+BJD	Biju Janata Dal
+CPI(ML)(L)	Communist Party of India(Marxist Leninist)(Liberation)
+DMK	Dravida Munnetra Kazhagam
+FPM	Federal Party of Manipur
+INLD	Indian National Lok Dal
+JKN	Jammu & Kashmir National Conference
+JKPDP	Jammu & Kashmir People’s Democratic Party
+JKNPP	Jammu & Kashmir National Panthers Party
+JMM	Jharkhand Mukti Morcha
+JD(U)	Janata Dal (United)
+JD (S)	Janata Dal (secular)
+KEC	Kerala Congress
+KEC(M)	Kerala Congress (Mani)
+LJNSP	Lok Jan Shakti Party
+MUL	Muslim League Kerala State Committee
+MAG	Maharashtrawadi Gomantak Party
+MDMK	Marumalarchi Dravida Munnetra Kazhagam
+MNF	Mizo National Front
+MPC	Mizoram People’s Conference
+MPP	Manipur People’s Party
+NPF	Nagaland People’s Front
+PMK	Pattali Makkal Katchi
+PRP	Praja Rajyam Party
+RSP	Revolutionary Socialist Party
+SAD	Shiromani Akali Dal
+SDF	Sikkim Democratic Front
+SGF	Save Goa Front
+SHS	Shiv Sena
+SP	Samajwadi Party
+TDP	Telugu Desham Party
+TRS	Telangana Rashtra Samithi
+UDP	United Democratc Party
+UGDP	United Goan Democratic Party
+UKKD	Uttrakhand Kranti Dal
+ZNP	Zoram Nationalist Party

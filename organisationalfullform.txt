@@ -1,0 +1,86 @@
+AAI	Airport Authority of India
+BMW	Bayerische Motoren Werke
+NASA	National Aeronautics and Space Administration
+IBM	International Business Machines
+KFC	Kentucky Fried Chicken
+UNICEF	United Nations Children’s Fund
+DLF	Delhi Land and Finance
+ISO	International Organization for Standardization
+HTC	High Tech Computer
+JCB	Joseph Cyril Bamford
+KPMG	KLYNVELD PEAT MARWICK GOERDELER
+ITC	Indian Tobacco Company, International Trade Center, Independent Telephone Company
+IBPS	Institute of Banking Personnel Selection
+CEO	Chief Executive Officer
+SOS	Save Our Souls
+NGO	Non-Governmental Organization
+ISI	Indian Standards Institute, Inter-Service Intelligence & Indian Statistical Institute
+KRA	Key Result Area/ Key Responsibility Area
+IEEE	Institute of Electrical and Electronics Engineers
+ICWA	Institute of Cost & Works Accountants of India, Indian Child Welfare Act
+CID	Crime Investigation Department
+RAW	Research and Analysis Wing
+LG	Lieutenant Governor
+ADIDAS	Adolf “Adi” Dassler
+ITI	Industrial Training Institute
+UPSC	Union Public Service Commission
+OEM	Original Equipment Manufacturer
+WIPRO	Western India Products
+UNESCO	United Nations Educational, Scientific and Cultural Organization
+IRDA	Insurance Regulatory and Development Authority & Infrared DATA Association
+FBI	Federal Bureau of Investigation
+RTO	Road Transport Office
+WWF	World Wide Fund for Nature, World Wrestling Federation
+NDA	National Defence Academy
+CBI	Central bureau of Investigation, Central Bank of India
+ISRO	Indian Space Research Organization
+CRISIL	Credit Rating Information Services of India Limited
+PSU	Public Sector Undertaking, Power Supply Unit
+PVR	Priya Village Roadshow
+IRCTC	Indian Railways Catering and Tourism Corporation
+BBC	British Broadcasting Corporation
+DHL	Dalsey Hillblom Lynn
+NSDL	National Securities Depository Limited
+TVS	Trichur Vengaram Sundaram
+ONGC	Oil and Natural Gas Corporation
+NATO	North Atlantic Treaty Organization
+AT&T	American Telephone & Telegraph Company
+FSSAI	Food Safety and Standards Authority of India
+CRPF	Central Reserve Police Force
+CISF	Central Industrial Security Force
+BSNL	Bharat Sanchar Nigam Limited
+MTNL	Mahanagar Telephone Nigam Limited
+BHEL	Bharat Heavy Electricals Limited
+ACC	Associated Cement Companies
+AHRC	Asian Human Rights Commission
+AIAAA	American Institute of Aeronautics and Astronautics
+BCCI	Board of Control of Cricket in India
+BPO	Business Process Outsourcing
+BRICS	Brazil Russia India China And South Africa
+CBSC	Central Board of Secondary Education
+DHL	Dalsey Hillblom Lynn
+DRDO	Defence Research and Development Organization
+DVC	Damodar Valley Corporation
+EPFO	Employee Provident Fund Organization
+FCI	Food Corporation of India
+Google	Global Organization Of Oriented Group Language Of Earth
+GAIL	Gas Authority of India Limited
+IATA	International Air Transport Association
+IPCC	Integrated Professional Competence Course
+IOC	International Olympic Committee
+IIT	Indian Institute of Technology
+JBL	James Bullough Lansing
+JK TYRE	Juggilal Kamlapat Ji Tyres
+LIC	Life Insurance Corporation of India
+MPEG	Moving Picture Experts Group
+MS	Master of Science, Master of Surgery & MicroSoft
+MTNL	Mahanagar Telephone Nigam Limited
+NABARD	National Bank for Agriculture and Rural Development
+NCERT	National Council of Educational Research and Training
+SEBI	Securities and Exchange Board of India
+SAP	systems, applications and products
+SIT	Special Investigation Team
+UPA	United Production of America & United Progressive Alliance
+UGC	University Grants Commission
+WEF	World Economic Forum
+TOI	Times of India

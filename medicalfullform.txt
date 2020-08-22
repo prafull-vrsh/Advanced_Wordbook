@@ -1,0 +1,32 @@
+MBBS	Bachelor of Medicine, Bachelor of Surgery (Medicinae Baccalaureus, Baccalaureus Chirurgiae in Latin)
+MD	Doctor of Medicine
+BAMS	Bachelor of Ayurvedic Medicine and Surgery
+MRI	Magnetic Resonance Imaging
+RBC	Red Blood Cell
+OPD	Outpatient Department
+OCD	bsessive-Compulsive Disorder
+OSA	Obstructive Sleep Apnea
+RHD	Rheumatic Heart Disease
+PKD	Polycystic Kidney Disease
+PMS	Premenstrual Syndrome
+PIV	Pelvic Inflammatory Disease
+BDS	Bachelor of Dental Surgery
+RNA	Ribonucleic Acid
+PTSD	Post-Traumatic Stress Disorder
+BMR	Basal Metabolic Rate
+STD	Subscriber Trunk Dialing, Sexually Transmitted Diseases
+BMI	Body Mass Index
+BMT	Bone Marrow Transplant
+CBC	Complete Blood Count
+TT	Tetanus Toxoid
+TLC	Total Lung Capacity
+BCG	Bacillus Calmette-Guerin
+EBV	Epstein – Barr virus
+DNA	Deoxyribo Nucleic Acid
+ECG	ElectroCardioGram
+UTI	Urinary Tract Infection
+PCP	Primary Care Physician
+AIDS	Acquired Immune Deficiency Syndrome
+WBC	White Blood Cell
+ARDS	Acute Respiratory Distress Syndrome
+MRI	Magnetic Resonance Imaging

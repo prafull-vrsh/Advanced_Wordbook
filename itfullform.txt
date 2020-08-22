@@ -1,0 +1,52 @@
+ASP	Active Server Page
+HTTPS	Hyper Text Transfer Protocol Secure
+HTML	Hyper Text Markup Language
+JPEG	Joint Photographic Experts Group
+CPU	Central Processing Unit
+MMS	Multimedia Messaging Service
+DSN	Domain Name System
+PDF	Portable Document Format
+ICT	Information and Communications Technology
+IT	Information Technology
+ITES	Information Technology Enabled Services
+SIM	Subscriber Identity Module
+PDF	Portable Document Format
+SMS	Short Message Service
+RSS	Really Simple Syndication, Rashtriya Swayamsevak Sangh
+PHP	Hypertext Preprocessor (earlier called, Personal Home Page)
+SEO	Search Engine Optimization
+SQL	Structured Query Language
+USB	Universal Serial Bus
+URL	Uniform Resource Locator
+JAR	Java Archive
+JAD	Java Application Descriptor
+RTS	Real Time Streaming
+UMTS	Universal Mobile Telecommunication System
+VIRUS	Vital Information Resources Under Seize
+MP4	MPEG-4 video file
+SWF	Shock Wave Flash
+GIF	Graphic InterchangeableFormat
+WIFI	Wireless Fidelity
+PERL	Practical Extraction And Report Language
+URL	Uniform Resource Locator
+www	World Wide Web
+CSS	Cascading Style Sheets
+3GPP	3rd Generation Partnership Project
+3GP	3rd Generation Protocol
+WMV	Windows Media Video
+JSP	Java Server Page
+XML	eXtensible Markup Language
+J2EE	Java 2 Platform Enterprise Edition
+WAV	Waveform Audio
+JS	Java Script
+XMPP	Extensible Messaging and Presence Protocol
+PNG	Portable Network Graphics
+BBS	Bulletin Board Service
+LTE	Long Term Evolution
+MODEM	MOdulator-DEModulator
+PING	Packet InterNet Groper
+WORM	Write Once Read Many
+VGA	Video Graphics Array
+MPEG	Motion Pictures Expert Group
+DBMS	Data Base Management System
+EMAIL	Electronic Mail

@@ -1,0 +1,62 @@
+JCB	Joseph Cyril Bamford
+ABS	Anti-lock Braking System
+MRF	Madras Rubber Factory
+PUC	Pollution Under Control
+TRO	Regional Transport Office/ Road Transport Office
+SUV	Sport Utility Vehicle
+RPM	Revolutions Per Minute
+TVS	Thirukkurungudi Vengaram Sundram
+JCB	Joseph Cyril Bamford
+TVS	Thirukkurungudi Vengaram Sundram
+MRF	Madras Rubber Factory
+CRDI	Common Rail Direct Injection
+SUV	Sport Utility Vehicle
+TDI	Turbocharged Direct Injection
+DTSI	Digital Twin Spark Ignition
+TVS	Thirukkurungudi Vengaram Sundram
+VTVT	Variable Timing Valve Train
+MPFI	Multi Point Fuel Injection
+SOHC	Single Over Head Camshaft
+DOC	Double Overhead Camshaft
+MUV	Multi Utility Vehicle
+SAE	Society of Automotive Engineers
+HCV	Heavy Commercial Vehicle
+LCV	Light Commercial Vehicle
+CVTI	Charged motion Variable Time Ignition
+CCVTI	Controlled Combustion Variable Timing Ignition
+EBD	Electronic Brakeforce Distribution
+BHR	Brake Horse Power
+BMEP	Brake Mean Effective Pressure
+BSFC	Brake Specific Fuel Consumption
+CC	Cubic Capacity
+CDI	Capacitor Discharge Ignition
+C.I ENGINE	Compression Ignition Engine
+CNG	Compressed Natural Gas
+DFI	Digital Fuel Injection
+DI ENGINE	Direct Injection Engine
+FHS	Frictional Horse Power
+GVW	Gross Vehicle Weight
+HVAC	Heating ventilating and Air Conditioning
+ICE	Internal Combustion Engine
+IHP	Indicated Horse Power
+IMEP	Indicated Mean Effective Pressure
+ISFC	Indicated Specific Fuel Consumption
+KPH	Kilometer Per Hour
+KPL	Kilometer Per Liter
+OHV	Over Head Valve
+SFC	Specific Fuel Consumption
+SI ENGINE	Spark Ignition Engine
+VDB	Ventilated Disc Brake
+VVT	Variable Valve Timing
+4WD	Four Wheel Drive(FWD)
+ZWD	Two Wheel Drive
+TC	Traction Control
+ESC	Electronic Stability Control
+ARAI	Automotive Research Association of India
+EGR	Exhaust Gas Recirculation
+EVRV	Electronic Vacuum Regulator Valve
+WGT	Waste Gas Turbocharger
+VGT	Variable Geometry Turbocharger
+SRS	Supplemental Restraint System
+LSPV	Load Sensing Proportioning Valve
+OBD	On Board Diagnose

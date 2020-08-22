@@ -1,0 +1,36 @@
+BPL     Below Poverty Line, British Physical Laboratories Group
+RTGS	Real Time Gross Settlement
+CAG	Comptroller and Auditor General of India
+EMI	Equated Monthly Installment
+CRR	Cash Reserve Ratio
+COB	Close of Business
+FDI	Foreign Direct Investment
+CTS	Cheque Truncation System, Clear to Send
+GST	Goods and Service Tax
+CST	Central Sales Tax, Chhatrapati Shivaji Terminus, Central Standard Time
+HDFC	Housing Development Finance Corporation
+ESI	Employees State Insurance
+NEFT	National Electronic Funds Transfer
+VAT	Value Added Tax
+TIN	Taxpayer Identification Number
+GDP	Gross Domestic Product
+ECC	Excise Control Code
+TDR	Tax Deduction and Collection Account Number
+FEMA	Foreign Exchange Management Act
+EOD	End of the Day
+PSI	Pound per Square Inch
+TAN	Ticket Deposit Receipt, Term Deposit Receipt & Time Domain Reflectometer
+SKU	Stock Keeping Unit
+HSBC	Hong Kong and Shanghai Banking Corporation
+NASDAQ	National Association of Securities Dealers Automated Quotations
+IOP	Initial Public Offering
+TA  	Travelling Allowance  
+IT	Information Technology ? Income Tax
+SIP	Systematic Investment Plan
+NIFT	National Stack Exchange Fifty
+SENSEX	Stock Exchange Sensitive Index
+KYC	Know Your Customer
+NPA	Non Performing Assets
+SLA	Service Level Agreement
+MICR	Magnetic Ink Character Recognition
+DA      Dearness Allowance

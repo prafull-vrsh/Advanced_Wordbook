@@ -1,0 +1,91 @@
+ADB	Asian Development Bank
+ADR	American Depositary Receipt
+AIDWA	All India Democratic Woman’s Association
+AITUC	All India Trade Union Congress
+AMFI	Association of Mutual Funds in India
+APEC	Asia-Pacific Economic Cooperation
+APL	Above Poverty Line
+APM	Administered Pricing Mechanism
+ARC	Asset Reconstruction Company
+ARDR	Agricultural and Rural Debt Relief
+ASBA	Application Supported by Block Amount
+ASEAN	Association of South-East Asian Nations
+ASEM	Asia-Europe Meeting
+ASSOCHAM	Associated Chambers of Commerce and Industry
+ATM	Automatic Teller Machine
+BIFR	Board of Industrial and Financial Reconstruction
+BCBS	Basel committee for Banking Supervision
+BCSBI	Banking Codes and Standards Board of India
+BIS	Bureau of Indian Standards
+BOLT	BSE On-Line Trading (System)
+BOT	Build, Operate and Transfer
+BPL	Below Poverty Line
+BPO	Business Process Outsourcing
+BSE	Bombay Stock Exchange
+CA	Chartered Accountant
+CABE	Central Advisory Board of Education
+CABE	Central Advisory Board of Education
+CACP	Commission of Agriculture Cost and Price
+C & AG	Comptroller & Auditor General
+CAMELS	C – Capital adequacy, A – Asset quality, M – Management quality, E – Earnings, L – Liquidity, S – Sensitivity to Market Risk
+CAPART	Council for People’s Action and Advancement of Rural Technology
+CAR	Capital adequacy ratio
+CARE	Credit Analysis & Research Ltd.
+CBS	Core banking solution
+CCI	Competition Commission of India
+CCIL	Clearing Corporation of India limited
+CDSL	Central Securities Depository Limited
+CECA	Comprehensive Economic Cooperation Agreement
+CEPA	Comprehensive Economic Partnership Agreement
+CIBIL	Credit Information Bureau (India) Ltd
+CII	Confederation of Indian Industry
+CIS	Commonwealth of Independent States
+CHOGM	Commonwealth Heads of Government Meeting
+CITES	Convention on International Trade in Endangered Species
+CITU	Centre Of Indian Trade Unions
+CMP	Common Minimum Program
+CPI(UNME)	The Consumer Price Index for Urban Non-Manual Employees
+CPI(AL)	Consumer Price Index for Agricultural Labors.
+CPI(IW)	Consumer Price Index for Industrial Workers
+CPI(RL)	Consumer Price Index for Rural Labourers
+CRAR	Capital to Risk (Weighted) Assets Ratio
+CRISIL	Credit Rating Information Services of India Limited
+CRR	Cash Reserve Ratio
+CSIR	Council of Scientific and Industrial Research
+CST	Central Sales Tax
+CTT	Commodities Transaction Tax
+DA	Dearness Allowance; Daily Allowance
+DMIC	Delhi-Mumbai Industrial Corridor
+DPEP	: District Primary Education Program
+ECA	Essential Commodity Act
+ECB	External Commercial Borrowings
+ECS	Electronic clearing system
+EDUSAT	Education Satellite
+EEE	Exempt Exempt Exempt
+EET	Exempt Exempt Taxation
+EFA	Education for All
+EFT	Electronic fund transfer
+EEFC Accounts	Exchange Earners Foreign Currency Account
+EGOM	Empowered Group of Ministers
+EMI	Equated Monthly Installment
+EMS	European Monetary System
+HDFC	Housing Development Finance Corporation
+HSBC	Hong Kong and Shanghai Banking Corporation
+ICICI	Credit and Investment Corporation of India
+IDBI	Industrial Development Bank of India
+IFSC	Indian Financial System Code
+IR	Indian Rupee
+NEFT	National Electronic Funds Transfer
+RTGS	Real-Time Gross Settlement
+RBL	Ratnakar Bank Limited
+PAN	Permanent Account Number
+PO	Probationary Officer & Post Office
+TDS	Tax Deducted at Source
+ECS	Electronic Clearing Service
+ESI	Employees’ State Insurance
+IRDA	Insurance Regulatory and Development Authority
+SEBI	Securities and Exchange Board of India
+SIDBI	Small Industries Development Bank of India
+SLR	Single Lens Reflex & Statutory Liquidity Ratio
+UCO	United Commercial Bank
+SERVICES	Space Entry/Recovery Vehicle in Commercial Environment

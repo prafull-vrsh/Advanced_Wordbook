@@ -1,0 +1,27 @@
+COMPUTER	Common Operating Machine Purposely Used for Technological and Educational Research
+CPU	Central Processing Unit
+ACD	Automatic Call Distributor
+LCD	Liquid Cristal Display
+DVD	Digital Video Disc, Digital Versatile Disc
+LED	Light Emitting Diode
+MCB	Miniature Circuit Breaker
+FAX	Facsimile
+HTC	High Tech Computer
+TFT	Thin Film Transistor
+CD-ROM	Compact Disc-Read-Only Memory
+CD	Compact Disc
+CDFS	Compact Disc File System
+CRT	Cathode-Ray Tube
+CD-RW	Compact Disc-Rewritable
+PDA	Personal Digital Assistant
+VGA	Video Graphics Array
+UPS	Uninterruptible Power Supply
+TDR	Ticket Deposit Receipt, Term Deposit Receipt & Time Domain Reflectometer
+USB	Universal Serial Bus
+3G	3rd Generation
+GSM	Global System for Mobile Communication.
+CDMA	Code Divison Multiple Access.
+AVI	Audio Video Interleave
+AMR	Adaptive Multi-Rate Codec
+MP3	MPEG player lll
+BMP	Bitmap

@@ -1,0 +1,27 @@
+BSC	Base Station Controller
+GPRS	General Packet Radio Service
+CDMA	Code Division Multiple Access
+ISD	International Subscriber Dialing
+FM	Frequency Modulation
+GSM	Global System for Mobile communication
+ITC	Independent Telephone Company
+WIFI	Wireless Fidelity
+PCS	Personal Communication Service
+PCO	Public Call Office
+SMSC	Short Message Service Center
+TIA	Telecommunications Industry Association
+UMTS	Universal Mobile Telecommunication System
+VLR	Visitor Location Register
+PSTN	Public Switched Telephone Network
+PPND	Public Packet Data Network
+PCS	Personal Communication Services
+NPDB	Number Portability Database
+NMT	Nordic Mobile Telephone
+MTS	Mobile Telephone Service
+MSC	Mobile Switching Center
+MIN	Mobile Identification Number
+IVRS	Interactive Voice Response System
+IMSI	International Mobile Subscriber Identity
+GPS	Global Positioning System
+GPRS	General Packet Radio Service
+3GPP	3rd Generation Partnership Project

@@ -1,0 +1,71 @@
+JAIIB	Junior Associate of the Indian Institute of Bankers
+CAIIB	Certified Associate of Indian Institute of Bankers
+CAT	Common Admission Test
+CPT	Common Proficiency Test
+GATE	Graduate Aptitude Test in Engineering
+IAS	Indian Administrative Service
+ICSE	Indian Certificate of Secondary Education
+IELTS	International English Language Testing System
+NDA	National Defence Academy, National Democratic Alliance
+NET	National Eligibility Test
+PCS	Provincial Civil Service
+SSB	Service Selection Board
+TOEFL	Test of English as a Foreign Language
+UPSC	Union Public Service Commission
+CMAT	Common Management Admission Test
+GMAT	Graduate Management Aptitude Test
+MAT	Management Aptitude Test
+JMET	Joint Management Entrance Test
+HP CMAT	Himachal Pradesh Combined Management Aptitude Test
+IISWBM	Indian Institute of Social Welfare & Business Management
+IIFT	Indian Institute of Foreign Trade
+IBSAT	ICFAI Business School Aptitude Test
+IISWBM	Indian Institute of Social Welfare & Business Management
+MICAT	MICA Common Aptitude Test
+IBSAT	ICFAI Business School Aptitude Test
+IRMA	Institute of Rural Management Anand
+RMAT	Rajasthan Management Aptitude Test
+IPMG	Institute of Petroleum Management
+ICET	Integrated Commen Entrance Test
+MAH MBA CET	Maharashtra MBA Common Entrance Test
+KMAT	Karnataka Management Aptitude Test
+SNAT	Symbiosis National Aptitude Test
+NMAT	Narsee Monjee Management Aptitude Test
+TANCET	Tamil Nadu Common Entrance Test Exam
+SNAP	Symbiosis National Aptitude Test
+XAT	Xavier’s Aptitude Test
+UPMCAT	Uttar Pradesh Management Common Aptitude Test
+AFMC	Armed Forces Medical College Exam
+AIIMS	All India Institute of Medical Sciences
+AICET	All India Common Entrance Test
+AIPMT	All India Pre-Medical / Pre-Dental Entrance Examination
+AICEE	All India Common Entrance Examination
+AMUPMDC	Association of Managements of Unaided Private Medical and Dental Colleges Entrance Exam
+AIPVT	All India Pre Veterinary Test
+BHU	Banaras Hindu University Entrance Examination
+DUMET	Delhi University Medical-Dental Entrance Test
+COMEDK	Consortium of Medical Engineering and Dental Colleges of Karnataka
+MP DMAT	Madhya Pradesh All India Dental & Medical Admission Test
+MGMCR	Mahatma Gandhi Medical College and Research Institute
+NEET(PG)	National Eligibility Entrance Test (Post-graduate)
+NEET(UG)	National Eligibility Entrance Test (Under-graduate)
+VMU	Vinayaka Missions University MBBS Entrance Exam
+OJEE	Orissa Joint Entrance Examination
+NMAT UG	Narsee Monjee Management Aptitude Test (for BTech and MBA Tech courses)
+JEE	Joint Entrance Exam (Main)
+SRMEEE	SRM University Engineering Entrance Exam
+JEE (Advance)	Joint Entrance Exam (Advanced)
+VITEEE	Vellore Institute of Technology Engineering Entrance Exam
+EAMCET	Engineering, Agriculture and Medical Common Entrance Test
+GCET	Goa Common Entrance Test
+OJEE	Odisha Joint Entrance Exam
+UPTU SEE	Uttar Pradesh Technical University State Entrance Examination
+KEAM	Kerala Engineering, Architecture, and Medical Entrance Exam
+GUJCET	Gujarat Common Entrance Test
+KCET	Karnataka Common Entrance Test
+CSE	Civil Services Examination
+SCRA	Special Class Railway Apprentices
+IFS	Indian Forest Service exam
+IES	The Indian Economic Service exam
+ISS	Indian Statistical Service exam
+NEET	National Eligibility Cum Entrance Test

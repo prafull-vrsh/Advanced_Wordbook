@@ -1,0 +1,55 @@
+GSM	Global System for Mobile communication
+GPRS	General Packet Radio Service
+LED	Light-Emitting Diode
+WIFI	Wireless Fidelity
+CDMA	Code Division Multiple Access
+CAD	Computer Aided Design
+CCTV	Closed Circuit Television
+CRT	Cathode Ray Tube
+DSLR	Digital single-lens reflex
+GPS	Global Positioning System
+SMS	Short Message Service
+LCD	Liquid Crystal Display
+MMS	Multimedia Messaging Service
+TFT	Thin Film Transistor
+ISD	International Subscriber Dialing
+LASER	Light Amplification by Stimulated Emission of Radiation
+CNC	Computerized Numerical Control
+RADAR	RAdio Detection And Ranging
+FAX	Facsimile
+PDA	Personal Digital Assistant
+MICR	Magnetic Ink Character Recognition
+MICR	Magnetic Ink Character Recognition
+PCO	Public Call Office
+CNG	Compressed Natural Gas
+IB	Symbol for POUND
+UPS	Uninterrupted Power Supply
+VGA	Video Graphics Array
+IMEI	International Mobile Equipment Identity
+MTS	Microsoft Transaction Server
+ICT	Information and Communications Technology
+VHDL	VHSIC Hardware Description Language
+CMOS	Complementary Metal Oxide Semiconductor
+EDGE	Enhanced Data Rates for GSM Evolution
+CAD	Computer Aided Design
+DSP	Digital Signal Processing
+LPG	Liquefied Petroleum Gas
+ISDN	Integrated Services Digital Network
+BHP	Brake HorsePower
+FTP	File Transfer Protocol
+PLC	Programmable Logic Controller
+CMS	Content Management System
+FM	Frequency Modulation
+MCB	Miniature Circuit Breaker
+CRT	Cathode Ray Tube
+GPRS	General Packet Radio Service
+HVAC	Heating Ventilation and Air Conditioning
+NETWORK	Interconnected Network
+JSF	JavaServer Faces
+PFA	Please Find Attachment & Predictive Failure Analysis
+RO	Reverse Osmosis
+UV	Ultraviolet
+UF	Ultrafiltration
+TFT	Thin Film Transistor
+VPI	Virtual Path Identifier
+WPA	Wi-Fi Protected Access
